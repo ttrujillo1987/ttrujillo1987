@@ -6,7 +6,7 @@ Software Developer
 
 I'm a software engineer with a marketing background.
 
-* 🌍  I'm based in The Greater Seattle Area
+* 🌍  I'm based in the Greater Seattle Area
 * ✉️  You can contact me at [ttrujillo1987@gmail.com](mailto:ttrujillo1987@gmail.com)
 * 🧠  I'm learning AI and ML
 * ⚡  Pineapple belongs on pizza
